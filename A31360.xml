@@ -1,0 +1,1367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dionysius Cato his four books of moral precepts translated out of Latine hexameter into English meeter by J.M.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31360</idno>
+            <idno type="STC">Wing C1512</idno>
+            <idno type="STC">ESTC R35937</idno>
+            <idno type="EEBO-CITATION">15579910</idno>
+            <idno type="OCLC">ocm 15579910</idno>
+            <idno type="VID">103906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1588:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dionysius Cato his four books of moral precepts translated out of Latine hexameter into English meeter by J.M.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>[7], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 18 p. of ms. notes bound at end.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Latin literature, Medieval and modern.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103906:1" rendition="simple:additions"/>
+            <p>DIONYSIUS CATO His Four BOOKS OF <hi>Moral Precepts.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated out of Latine Hexame<g ref="char:EOLhyphen"/>ter, into Engliſh Meeter:</hi>
+            </p>
+            <p>
+               <hi>By</hi> J. M.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed in the Year 1700.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:103906:2"/>
+            <pb facs="tcp:103906:2" rendition="simple:additions"/>
+            <p>DIONYSIUS CATO, HIS <hi>Moral Precepts.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:103906:3"/>
+            <pb facs="tcp:103906:3"/>
+            <head>THE PREFACE.</head>
+            <l>WHEN I obſerv'd, how many Men</l>
+            <l>In manners went awry,</l>
+            <l>And groſly erred in their courſe,</l>
+            <l>From Paths of Piety;</l>
+            <l>I thought my counſel (to amend,</l>
+            <l>If happily I might)</l>
+            <l>Was not amiſs; And teach Men how,</l>
+            <l>To live in happy plight.</l>
+            <l>Now therefore (my beloved Son)</l>
+            <l>I will inform thy mind,</l>
+            <l>To walk a courſe, whereby thou may'ſt,</l>
+            <l>Both praiſe and profite find.</l>
+            <l>So then my precepts read, as that</l>
+            <l>They may be underſtood.</l>
+            <l>For why? to read and not regard,</l>
+            <l>Is to neglect thy Good.</l>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:103906:4"/>
+            <head>THE INTRODUCTION.</head>
+            <l>PRay to thy God with rev'rent fear</l>
+            <l>And allways love thy Parents dear</l>
+            <l>Reſpect thy kindred with good will</l>
+            <l>Fear to offend your Teachers ſtill.</l>
+            <l>Keep what is given to thee in Truſt</l>
+            <l>And to the Court prepare thou muſt.</l>
+            <l>With upright men, walk where thou wald</l>
+            <l>To council come thou not uncall'd.</l>
+            <l>Be neat and cleanly, as thou can:</l>
+            <l>And bid <hi>Good Day</hi> to ev'ry Man.</l>
+            <l>To all Superiours, give due place.</l>
+            <l>Slight no Inferiours, with Diſgrace.</l>
+            <l>Keep your Eſtate, with ſerious care.</l>
+            <l>Be baſhful ay, where you repair.</l>
+            <l>Ply well your care in every thing:</l>
+            <l>Read Books for Learning's cheriſhing</l>
+            <l>
+               <pb facs="tcp:103906:4"/>And what ye read, ſtrive to retain.</l>
+            <l>Your Family ſeek to maintain.</l>
+            <l>Be fair ſpoken at all eſſays;</l>
+            <l>And let not anger blind your eyes.</l>
+            <l>Mock none leaſt you be mock'd again.</l>
+            <l>The pooreſt Wretch do not diſdain.</l>
+            <l>Spare not to lend, but look to whom:</l>
+            <l>And to the Judgment you muſt come.</l>
+            <l>Feaſt rarely: And ſleep in due time.</l>
+            <l>To break your Oath, abhorre the crime.</l>
+            <l>By too much wine, wrong not your health</l>
+            <l>Fight for your Countries Common wealth</l>
+            <l>Truſt nothing raſhly; I adviſe you:</l>
+            <l>Flee from all Whores; leaſt they abuſe you.</l>
+            <l>Ply Learning for your future bleſs,</l>
+            <l>Let good Men feel your Bounteouſneſs.</l>
+            <l>Avoid ill ſpeaking: Do not raill.</l>
+            <l>An honeſt Name's of great avail.</l>
+            <l>Judge righteous Judgment: By deſerts,</l>
+            <l>And patience, win your Parents hearts.</l>
+            <l>Mind well a Benefite receiv'd:</l>
+            <l>Keep watch and waird, when thou art crav'd.</l>
+            <l>Give your advice when it is ſought;</l>
+            <l>Make uſe of Valour, not for nought.</l>
+            <l>Aſſwage your anger, and ſubdue it.</l>
+            <l>Let Tops be us'd and Dice eſchew'd.</l>
+            <l>
+               <pb facs="tcp:103906:5"/>Though thou be ſtrong, no violence do;</l>
+            <l>And no Inferiour overthrow.</l>
+            <l>Covet not, what's none of thine.</l>
+            <l>Love thy Spouſe, and 'gainſt foes combine</l>
+            <l>Train up your Children vertuouſly:</l>
+            <l>Thine own Law thou muſt underly:</l>
+            <l>Speak ſpareingly at Banquet-Table,</l>
+            <l>Preſs what is juſt, when thou art able</l>
+            <l>And willingly endure Loves pain:</l>
+            <l>To love, and to be lov'd again.</l>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb n="1" facs="tcp:103906:5"/>
+            <head>DIONYSIUS CATO, HIS MORAL PRECEPTS. <hi>Tranſlated out of</hi> Latine Hexameter, <hi>into</hi> Engliſh Meeter; <hi>By</hi> J. M.</head>
+            <head type="sub"> BOOK I.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>IF GOD Almighty be a Sp'rit,</l>
+               <l>As Writings teſtifie,</l>
+               <l>He muſt be worſhiped aright,</l>
+               <l>In Sp'rit and Veritie.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Be watchfull always; And to ſleep</l>
+               <l>Let not thy Mind be bent;</l>
+               <l>For Eaſe continual unto Vice,</l>
+               <l>Affordeth nouriſhment.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Of moral Virtues hold it chief,</l>
+               <l>Th' unbridled Tongue to tame;</l>
+               <l>Next unto GOD is He, that can</l>
+               <l>With reaſon rule the ſame.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>Repugnant to thy ſelf in ought,</l>
+               <l>By varying ſcorn to be:</l>
+               <l>For he, that from himſelf diſſents,</l>
+               <l>With no Man will agree.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>If thou ſurvey the Lives of Men,</l>
+               <l>And manners of the time,</l>
+               <l>While each reproves anothers faults,</l>
+               <l>What Man is free from Crime?</l>
+            </lg>
+            <lg n="6">
+               <pb n="2" facs="tcp:103906:6"/>
+               <head>6.</head>
+               <l>Abandon things that hurtful are,</l>
+               <l>Though dear to thee they ſeem:</l>
+               <l>In time, thy private profite, more</l>
+               <l>Than Wealth, thou muſt eſteem.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Be conſtant, and [if cauſe require,]</l>
+               <l>Unſtable ſeem to be:</l>
+               <l>Wiſe Men their Manners ſometimes change,</l>
+               <l>And yet from fault are free.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Believe not raſhly what thy wife</l>
+               <l>Of Servants ſhall relate:</l>
+               <l>For oftimes whom the Husband loves</l>
+               <l>The Wife is found to hate.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>If thou [in kindneſs] warne a man</l>
+               <l>Self-will'd and loath to hear:</l>
+               <l>Yet leave not off thy courſe begun,</l>
+               <l>If he to thee be dear.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>With jangling fellows, full of words,</l>
+               <l>Contend thou not in vain:</l>
+               <l>For ſpeech is common unto all,</l>
+               <l>But Wisdom few attain.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>So love thy Friends, as to thy ſelf,</l>
+               <l>A loving Friend thou be:</l>
+               <l>So bound thy Bounty to the beſt,</l>
+               <l>As harm purſue not thee.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>Flee Tales and Rumors; Leaſt of News</l>
+               <l>A Coiner thou be thought:</l>
+               <l>For ſilence ſeldom hurts a Man,</l>
+               <l>But ſpeech much care hath wrought.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>On truſt to others words, make thou</l>
+               <l>No promiſe, leaſt thou break;</l>
+               <l>For Faith and Truth is rare; Becauſe</l>
+               <l>Moſt mean not as they ſpeak.</l>
+            </lg>
+            <lg n="14">
+               <pb n="3" facs="tcp:103906:6"/>
+               <head>14.</head>
+               <l>When other Men commend thee moſt,</l>
+               <l>Judge of thy merite ſo:</l>
+               <l>As thou believe not more their Words,</l>
+               <l>Then what thy ſelf does know.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>Each pleaſure done thee by a friend,</l>
+               <l>To many make thou known:</l>
+               <l>But what to others thou haſt done,</l>
+               <l>Keep to thy ſelf alone.</l>
+            </lg>
+            <lg n="16">
+               <head>16.</head>
+               <l>When thou art old, and ſhalt report</l>
+               <l>The Acts of diverſe Men:</l>
+               <l>Remember well thy youthful times</l>
+               <l>And what thy ſelf did then.</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>Take no regard what Standers by</l>
+               <l>In private whiſp'ring chat;</l>
+               <l>A guilty Conſcience ſtill miſtruſts,</l>
+               <l>Her ſelf is aimed at.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>In time of wealth, remember woe;</l>
+               <l>Mutations are not ſtrange.</l>
+               <l>All humane things are ordered ſo,</l>
+               <l>To have their Interchange.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>Since frail and doubtful is our life,</l>
+               <l>Unknown our dying day:</l>
+               <l>To live in hope of others Death,</l>
+               <l>Great folly doth bewray.</l>
+            </lg>
+            <lg n="20">
+               <head>20.</head>
+               <l>If from thy poor well-wiſhing Friend</l>
+               <l>Some ſlender Gift be ſent:</l>
+               <l>In thankful ways accept his love,</l>
+               <l>And praiſe his good intent.</l>
+            </lg>
+            <lg n="21">
+               <head>21.</head>
+               <l>Since naked from the womb thou cam'ſt,</l>
+               <l>As Nature form'd thee there;</l>
+               <l>The burden of external wants,</l>
+               <l>With patience, ſee thou bear.</l>
+            </lg>
+            <lg n="22">
+               <pb n="4" facs="tcp:103906:7"/>
+               <head>22.</head>
+               <l>Dread not thy death, in time to come,</l>
+               <l>Nor fear the fatal Knife:</l>
+               <l>Who dreads his end, therein exiles</l>
+               <l>The comforts of his Life.</l>
+            </lg>
+            <lg n="23">
+               <head>23.</head>
+               <l>If Friends, to whom thou haſt been kind,</l>
+               <l>Thy kindneſs naught regard,</l>
+               <l>Accuſe not Fate; But blame thy ſelf:</l>
+               <l>Be wiſer afterward.</l>
+            </lg>
+            <lg n="24">
+               <head>24.</head>
+               <l>The better to ſupply thy want,</l>
+               <l>Spare what thy hand hath got:</l>
+               <l>And that thou may'ſt thy penny ſave,</l>
+               <l>Suppoſe thou had'ſt it not.</l>
+            </lg>
+            <lg n="25">
+               <head>25.</head>
+               <l>What in thy power reſts to perform</l>
+               <l>Twice promiſe not, for ſhame</l>
+               <l>Leaſt [while thou would be civil thought,]</l>
+               <l>Thy lightneſs all Men blame.</l>
+            </lg>
+            <lg n="26">
+               <head>26.</head>
+               <l>Who ſpeaks right fair and loves thee not,</l>
+               <l>Like meaſure let him find;</l>
+               <l>So Art by Art is met withall,</l>
+               <l>And falſhood in her kind.</l>
+            </lg>
+            <lg n="27">
+               <head>27</head>
+               <l>Approve not fawning Flatterers,</l>
+               <l>Whoſe words are full of Wiles,</l>
+               <l>Moſt ſweetly ſounds the Fowlers call,</l>
+               <l>Whiles he the Bird beguiles.</l>
+            </lg>
+            <lg n="28">
+               <head>28.</head>
+               <l>If wedded thou have Children ſtore,</l>
+               <l>And little wealth to give,</l>
+               <l>Then train them up in honeſt Arts,</l>
+               <l>That each may learn to live.</l>
+            </lg>
+            <lg n="29">
+               <head>29.</head>
+               <l>Things that be cheap imagine dear,</l>
+               <l>Things dear as cheap eſteem.</l>
+               <l>So neither niggard to thy ſelf,</l>
+               <l>Nor greedy ſhalt thou ſeem.</l>
+            </lg>
+            <lg n="30">
+               <pb n="5" facs="tcp:103906:7"/>
+               <head>30.</head>
+               <l>What fault thou finds with other Men,</l>
+               <l>Let not be found in thee,</l>
+               <l>Foul ſhame in him, that vice reproves,</l>
+               <l>Himſelf not to be free.</l>
+            </lg>
+            <lg n="31">
+               <head>31.</head>
+               <l>What is thy due, thou may'ſt require,</l>
+               <l>Or what ſeems honeſt, crave:</l>
+               <l>But folly were it, to deſire</l>
+               <l>A thing, thou ſhould not have.</l>
+            </lg>
+            <lg n="32">
+               <head>32.</head>
+               <l>Things known, before things never try'd</l>
+               <l>Prefere, if thou be wiſe:</l>
+               <l>Sith thoſe by Judgment are diſcern'd,</l>
+               <l>But theſe by meer ſurmiſe.</l>
+            </lg>
+            <lg n="33">
+               <head>33.</head>
+               <l>Since Life in daily danger lyes,</l>
+               <l>and iſſues doubtful are:</l>
+               <l>Each day thou liv'ſt account thou gain,</l>
+               <l>that captive are to care.</l>
+            </lg>
+            <lg n="34">
+               <head>34.</head>
+               <l>Sometimes, when thou may'ſt Victor be,</l>
+               <l>Give place as vanquiſhed,</l>
+               <l>By yeilding up in Courteſy,</l>
+               <l>Kind Freinds are conquered.</l>
+            </lg>
+            <lg n="35">
+               <head>35.</head>
+               <l>Great things requiring, grudge thou not,</l>
+               <l>Small Charges to beſtow:</l>
+               <l>For by this means 'twixt Friend and Friend,</l>
+               <l>Doth favour greatly grow.</l>
+            </lg>
+            <lg n="36">
+               <head>36.</head>
+               <l>With whom thou art in League of Love,</l>
+               <l>To quarrel think prophane;</l>
+               <l>Brauls hatred breeds, and friendſhip breaks;</l>
+               <l>But Peace doth Love maintain.</l>
+            </lg>
+            <lg n="37">
+               <head>37.</head>
+               <l>When careleſs Servants move thy mind</l>
+               <l>To Wrath, and ireful Rage;</l>
+               <l>Do nought in choler, till the time</l>
+               <l>Thy Fury ſhall aſſwage.</l>
+            </lg>
+            <lg n="38">
+               <pb n="6" facs="tcp:103906:8"/>
+               <head>38.</head>
+               <l>Whom thou by force may'ſt conquer, ſeek</l>
+               <l>By ſuff'rance to convince:</l>
+               <l>Of moral Virtues wiſe Men hold</l>
+               <l>Sweet Patience Soveraign Prince.</l>
+            </lg>
+            <lg n="39">
+               <head>39.</head>
+               <l>Keep rather Goods by labour got,</l>
+               <l>Than ſpend till things be ſcant:</l>
+               <l>In loſs to work and toill afreſh,</l>
+               <l>Is ſtill to live in want.</l>
+            </lg>
+            <lg n="40">
+               <head>40.</head>
+               <l>If wealth abound, be liberal</l>
+               <l>Each Friendſhip to reward:</l>
+               <l>Yet ſo as always of thy ſelf,</l>
+               <l>Thou have a due regard.</l>
+            </lg>
+         </div>
+         <div n="2" type="book">
+            <head>Dionyſius Cato, His MORAL PRECEPTS.</head>
+            <head type="sub"> BOOK II. </head>
+            <div type="preface">
+               <head>The PREFACE.</head>
+               <l>OF Tillage if perhaps thou would,</l>
+               <l>The Skill exactly know.</l>
+               <l>Read Learned <hi>Virgil,</hi> whoſe Diſcourſe</l>
+               <l>Each thing at large doth ſhow.</l>
+               <l>But if of Herbs and Plants the Force</l>
+               <l>Thou rather wiſh to find,</l>
+               <l>Lo <hi>Macer</hi> writtes a Book in Verſe,</l>
+               <l>To ſatisfy thy Mind.</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Roman Warrs and bloody Broils</l>
+               <l>Of <hi>Carthage</hi> pleaſe thee more:</l>
+               <l>
+                  <pb n="7" facs="tcp:103906:8"/>Search <hi>Lucan,</hi> who of <hi>Mars</hi> his Stirres</l>
+               <l>And Stratagems hath ſtore.</l>
+               <l>Or if by reading thou deſire,</l>
+               <l>The Laws of Love to Learn,</l>
+               <l>In <hi>Naſoes</hi> wanton Legend, lo,</l>
+               <l>This Art thou may'st diſcern.</l>
+               <l>But if thy chiefest Care intend,</l>
+               <l>A wiſe Mans ſtate to ſee:</l>
+               <l>Then listen thou to lead a Life</l>
+               <l>From filthy Vices free.</l>
+               <l>Approach, I ſay, and to my Lore.</l>
+               <l>Attend while I relate,</l>
+               <l>What Wiſdom is, and how by her,</l>
+               <l>Thou may'st be fortunate.</l>
+            </div>
+            <div type="body_of_book">
+               <lg n="1">
+                  <head>1</head>
+                  <l>EVEN unto ſtrangers (if thou may'ſt]</l>
+                  <l>Do good, in time of need:</l>
+                  <l>For friends, by love and bounty won,</l>
+                  <l>A kingdomes worth exceed.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>What heaven and Gods high ſecrets are,</l>
+                  <l>VVaſte not thy wits to learn:</l>
+                  <l>Since thou art mortal, mind the things</l>
+                  <l>VVhich mortal men concern.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Fond fear of Death abandon quite,</l>
+                  <l>As follies foul effect:</l>
+                  <l>Which, who ſo dreads, all joy of life,</l>
+                  <l>Doth utterly reject.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="8" facs="tcp:103906:9"/>
+                  <head>4.</head>
+                  <l>In diſputation ſuffer not,</l>
+                  <l>Incenſed wrath to riſe;</l>
+                  <l>Which wit and judgement ſo beguiles,</l>
+                  <l>That truth obſcured lies.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Spare for no coſt, when time ſhall ſerve,</l>
+                  <l>And cauſe require the ſame,</l>
+                  <l>A penny better ſpent then ſpar'd,</l>
+                  <l>Addes to an honeſt name.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Abandon Superfluities,</l>
+                  <l>VVith litle reſt content:</l>
+                  <l>Safe is the bark on calmer ſtreames</l>
+                  <l>To wiſhed Haven bent.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Remember well (as wiſdom would,)</l>
+                  <l>To hide thy proper ſhame:</l>
+                  <l>Leſt what thy private ſelf-miſlikes</l>
+                  <l>Incurre more publick blame.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Think not that men offending oft</l>
+                  <l>Can cloſely ſo conceal</l>
+                  <l>Their faults: but that one time ſhall ſure</l>
+                  <l>Their ſecret Sins reveal.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>A man of limbs and ſtature ſmall</l>
+                  <l>Diſdain not in thy pride:</l>
+                  <l>For Natur's want by wiſdomes wealth</l>
+                  <l>Is commonly Supply'd.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Contending with ſuperior powers</l>
+                  <l>Take heed in time to yeeld:</l>
+                  <l>For oft the partie Vanquiſhed,</l>
+                  <l>Hath after won the field.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Againſt thy freind, by force of words,</l>
+                  <l>Strive not in any wayes:</l>
+                  <l>Sometimes of words (which are but wind)</l>
+                  <l>Great controverſies riſe.</l>
+               </lg>
+               <lg n="12">
+                  <pb n="9" facs="tcp:103906:9"/>
+                  <head>12.</head>
+                  <l>What God intends, endeavour not</l>
+                  <l>By lot, to know or ſhun.</l>
+                  <l>What he determines, touching thee,</l>
+                  <l>VVithout thee ſhall be done.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Eſchew, by over nice attires,</l>
+                  <l>Foul Envyes hateful ſting:</l>
+                  <l>Which (though it hurt not,) to endure</l>
+                  <l>Is yet an irkſome thing.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>By wrongful Judgement overthrown,</l>
+                  <l>Thy ſelf diſcourage not:</l>
+                  <l>By doome unjuſt who overcomes,</l>
+                  <l>Not long enjoyes his lot.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Once reconciled, rip not up</l>
+                  <l>The wrongs of former dayes:</l>
+                  <l>Old Sores to rub, and wrath revive,</l>
+                  <l>A wicked mind bewrayes.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>To praiſe or diſcommend thy ſelf,</l>
+                  <l>Are things alike unfit:</l>
+                  <l>For ſo do fools whom glory vain,</l>
+                  <l>Bereaves of common wit.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>In midſt of plenty, keep a mean,</l>
+                  <l>Spend not thy ſelf too faſt:</l>
+                  <l>Goods, long in gathering, oft are ſeen</l>
+                  <l>In little time to waſte.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>To play the fool in time and place</l>
+                  <l>Occaſion ſerving fit,</l>
+                  <l>Amongſt the wiſeſt is eſteem'd</l>
+                  <l>The primeſt point of Wit.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Flee wanton Riot, and withal</l>
+                  <l>Eſchew the common Fame</l>
+                  <l>Of Avarice; Both which Extreams</l>
+                  <l>Impair a Mans good Name.</l>
+               </lg>
+               <lg n="20">
+                  <pb n="10" facs="tcp:103906:10"/>
+                  <head>20.</head>
+                  <l>Believe not lightly every Tale,</l>
+                  <l>Each Babler ſhall relate:</l>
+                  <l>Small Credit crave his idle Words</l>
+                  <l>That uſeth much to prate.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>The Sin of Surfet pardon not:</l>
+                  <l>Do Pennance for the ſame:</l>
+                  <l>Not Wine, but Drinkers foul Abuſe,</l>
+                  <l>That doth deſerveth Blame.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>Thy Secrets to a ſecret Friend,</l>
+                  <l>Commit, if thou be wiſe:</l>
+                  <l>Thy crazed Body to his Truſt,</l>
+                  <l>That Health by Art ſupplies.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>Ungodly Perſons thriving faſt</l>
+                  <l>Let not thy Mind affright:</l>
+                  <l>For Fortune favours wicked Men.</l>
+                  <l>To Work them farder Spight.</l>
+               </lg>
+               <lg n="24">
+                  <head>24</head>
+                  <l>Provide for After-Claps in time,</l>
+                  <l>And arme thy ſelf to bear;</l>
+                  <l>So ſhall thou in expected Broiles,</l>
+                  <l>Prevent both Harm and Fear.</l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>In time of trouble, be not like</l>
+                  <l>A wounded Man, half ſlain,</l>
+                  <l>But hope the beſt: For Hope alone</l>
+                  <l>Revives the Dead again.</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>Neglect not fit Occaſion, for</l>
+                  <l>Thy proper Good aſſign'd:</l>
+                  <l>Old Father Time hath hairy Locks</l>
+                  <l>Before, but not behind.</l>
+               </lg>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>Look back what follows, and withal</l>
+                  <l>Forſeee what ſtands in place.</l>
+                  <l>This Wiſdom may that Embleme teach,</l>
+                  <l>Of <hi>Janus</hi> double Face.</l>
+               </lg>
+               <lg n="28">
+                  <pb n="11" facs="tcp:103906:10"/>
+                  <head>28.</head>
+                  <l>Sometimes, for Health, ſpare dyet uſe;</l>
+                  <l>For though of Dainties ſtore</l>
+                  <l>Dame Pleaſure crave; Yet to thy Health</l>
+                  <l>Thou art addebted more.</l>
+               </lg>
+               <lg n="29">
+                  <head>29.</head>
+                  <l>The Judgment of the Multitude</l>
+                  <l>Deſpiſe not thou alone:</l>
+                  <l>Leſt while thou many Men contemn'ſt</l>
+                  <l>Thy ſelf be lik'd of none.</l>
+               </lg>
+               <lg n="30">
+                  <head>30.</head>
+                  <l>Of wiſhed Health have chiefeſt Care,</l>
+                  <l>Preferr thy Health to all:</l>
+                  <l>If evil Dyet make thee ſick,</l>
+                  <l>Blame not the <hi>Spring</hi> nor <hi>Fall.</hi>
+                  </l>
+               </lg>
+               <lg n="31">
+                  <head>31.</head>
+                  <l>Regard not Dreams; For what Mens Thoughs</l>
+                  <l>Broad waking entertain,</l>
+                  <l>And wiſh, or hope, then muſe upon,</l>
+                  <l>In Sleep appears again.</l>
+               </lg>
+            </div>
+         </div>
+         <div n="3" type="book">
+            <pb n="12" facs="tcp:103906:11" rendition="simple:additions"/>
+            <head>Dionyſius Cato, His MORAL PRECEPTS.</head>
+            <head type="sub"> BOOK III.</head>
+            <div type="preface">
+               <head> The PREFACE.</head>
+               <l>GOOD Reader, whoſoe're thou art,</l>
+               <l>That takes this Book in Hand,</l>
+               <l>Theſe brief Directions good for Life,</l>
+               <l>Give heed to understand.</l>
+               <l>With honest Precepts ſtore thy Mind,</l>
+               <l>Learn well their wiſe Contents.</l>
+               <l>For Life of civil Learning void,</l>
+               <l>Death's Image repreſents,</l>
+               <l>Great Profite may'ſt thou reap thereby,</l>
+               <l>Which if thou not reſpect,</l>
+               <l>Not me the Writer, but thy ſelf</l>
+               <l>Thou chiefly ſhalt neglect.</l>
+            </div>
+            <div type="body_of_book">
+               <lg n="1">
+                  <head>1</head>
+                  <l>WHereas thou lead'ſt an upright life,</l>
+                  <l>Regard not cauſeleſs wrongs:</l>
+                  <l>By baſe detractors offered; for</l>
+                  <l>Thou canſt not rule Mens tongues.</l>
+               </lg>
+               <lg>
+                  <head>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </head>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll'd by law, againſt thy Friend,</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>eſs crimes forepaſt:</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> honeſt reputation ſav'd.]</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ceale them what thou may'ſt.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="13" facs="tcp:103906:11"/>
+                  <head>3.</head>
+                  <l>Of fawning words and flatt'ring ſpeech,</l>
+                  <l>beware, [in any wayes,]</l>
+                  <l>For ſimple truth unmasked walks,</l>
+                  <l>But fraud fair words diſguiſe.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Flee beaſtly ſloth, the bane of life:</l>
+                  <l>Some honeſt buſineſs do.</l>
+                  <l>An idle mind decayes it ſelf,</l>
+                  <l>And waſtes the body too.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>To make both mind and body ſtrong,</l>
+                  <l>No labour then refuſe:</l>
+                  <l>But in thy many careful toils</l>
+                  <l>Some recreation uſe.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>To carp at others words, let not</l>
+                  <l>Thy wit be ill apply'd;</l>
+                  <l>Leaſt by thine own example taught,</l>
+                  <l>Another the deride.</l>
+               </lg>
+               <lg>
+                  <head>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <l>What by deceaſed Friends bequeath'd,</l>
+                  <l>Is hapned to thy Lot,</l>
+                  <l>Keep and encreaſe, that common Fame</l>
+                  <l>A Spend-Thrift call thee not.</l>
+               </lg>
+               <lg>
+                  <head>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <l>Of Riches, if thy latter age</l>
+                  <l>A greater portion find:</l>
+                  <l>Abound in Bounty, and abhorre</l>
+                  <l>A wretched Miſer's Mind.</l>
+               </lg>
+               <lg>
+                  <head>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </head>
+                  <l>Sage counſel from thy Servants mouth,</l>
+                  <l>Diſdain not to reſpect;</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or any Mens advice, that may</l>
+                  <l>Thy proper good effect.</l>
+               </lg>
+               <lg>
+                  <head>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <l>If wonted wealth and ſubſtance fail,</l>
+                  <l>Yet baniſh Care and Greif;</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd live content with what the times,</l>
+                  <l>Shall yeild for thy Relief.</l>
+               </lg>
+               <lg n="11">
+                  <pb n="14" facs="tcp:103906:12"/>
+                  <head>11.</head>
+                  <l>Beware thou marry not a Wife,</l>
+                  <l>For Wealth and Wordly ſtore;</l>
+                  <l>And if ſhe falſity her Faith,</l>
+                  <l>Admit her Love no more.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>By many Mens example learn,</l>
+                  <l>What to embrace or flee:</l>
+                  <l>An others Life, in this behalf,</l>
+                  <l>May thine inſtructer be.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Attempt not matters paſt thy ſtrength,</l>
+                  <l>Left over-preſt with pain,</l>
+                  <l>Thy Labour fail: and ſo thy work</l>
+                  <l>And Enterpriſe prove vain.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>What ill thou know'ſt of others wrought</l>
+                  <l>Spare not in time to tell:</l>
+                  <l>Leſt by thy ſilence thou ſubſcribe,</l>
+                  <l>and ſeem to like it well.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>By Law unjuſt condemned, ſeek</l>
+                  <l>The Judges help to have:</l>
+                  <l>For Lawes themſelves by Equity,</l>
+                  <l>To be reformed crave.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>What penalty deſerv'd inflicts,</l>
+                  <l>To bear thou muſt not grudge;</l>
+                  <l>For guilty to thy ſelf in ought,</l>
+                  <l>Thy ſelf thou ought to judge.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Improve thy ſelf by Reading much,</l>
+                  <l>And mending things amiſs:</l>
+                  <l>For Poets many marvels write,</l>
+                  <l>Whoſe Credit doubtful is.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>At Feaſts and Banquets buſie not</l>
+                  <l>Thy Tongue, with too much chat:</l>
+                  <l>Leſt while thou would be pleaſant thought,</l>
+                  <l>Thy Talk be laughed at,</l>
+               </lg>
+               <lg n="19">
+                  <pb n="15" facs="tcp:103906:12"/>
+                  <head>19.</head>
+                  <l>The Speeches of thy angry Wife,</l>
+                  <l>Let not thy Courage daunt:</l>
+                  <l>For Women with their wylie Tears,</l>
+                  <l>Their Husbands oft enchant.</l>
+               </lg>
+               <lg n="20">
+                  <head>20.</head>
+                  <l>Uſe that thou haſt, to do thee good,</l>
+                  <l>But ſee thou make no waſte;</l>
+                  <l>Who vainly ſpend their own, and want,</l>
+                  <l>Seek other Mens at laſt.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>Reſolve, fond fear of future Death</l>
+                  <l>To baniſh from the ſtill:</l>
+                  <l>Which, though it be not good it ſelf,</l>
+                  <l>Yet makes an end of ill.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>With inward and Religious love</l>
+                  <l>Thy Parents both embrace:</l>
+                  <l>And to offend thy Mother dear</l>
+                  <l>forbear in any caſe.</l>
+               </lg>
+            </div>
+         </div>
+         <div n="4" type="book">
+            <pb n="16" facs="tcp:103906:13"/>
+            <head>Dionyſius Cato, His MORAL PRECEPTS.</head>
+            <head type="sub"> BOOK IV.</head>
+            <div type="preface">
+               <head> The PREFACE.</head>
+               <l>WHOSO thou art that do'st deſire</l>
+               <l>To lead a quiet Life,</l>
+               <l>And touching Manners, to eſchew</l>
+               <l>Corruptions that are riſe.</l>
+               <l>This little Volume oft revolve,</l>
+               <l>Wherein thy ſelf ſhalt find</l>
+               <l>Such Precepts, grave as (Tutor-like,)</l>
+               <l>May teach and rule thy Mind.</l>
+            </div>
+            <div type="body_of_book">
+               <lg n="1">
+                  <head>1.</head>
+                  <l>ONE ſpecial Note of Bleſſedneſs</l>
+                  <l>Is Riches to deny;</l>
+                  <l>Which whoſo covets to engroſs</l>
+                  <l>Lives always beggarly.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Dame Natures Wealth he cannot want,</l>
+                  <l>VVho curbs his vain deſires.</l>
+                  <l>And meaſures his Expence, with what</l>
+                  <l>Neceſſity requires.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Through want of care, if thine Affairs</l>
+                  <l>Succeed not to thy mind:</l>
+                  <l>Accuſe not fained Fortune, nor</l>
+                  <l>Reproach her to be blind.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="17" facs="tcp:103906:13"/>
+                  <head>4.</head>
+                  <l>Love Money well; but to the ſtamp</l>
+                  <l>Put not thy mind in thrall:</l>
+                  <l>Which honeſt and Religious Men</l>
+                  <l>Do not reſpect at all.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>If thou be rich, beſtow the more</l>
+                  <l>On Phyſick for thine Health;</l>
+                  <l>A rich Man ſick hath ſtore of Coin,</l>
+                  <l>But wants his chiefeſt wealth,</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>If of thy Maſter thou receive</l>
+                  <l>Correction more ſevere,</l>
+                  <l>Thine angry Fathers ſharp Reproof,</l>
+                  <l>With Patience ſee thou bear.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>In things that profite may procure,</l>
+                  <l>Thy labours exerciſe:</l>
+                  <l>But never undertake Affairs</l>
+                  <l>Where Doubt or Errour lies.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>What thou may'ſt give, from him that craves</l>
+                  <l>Deſire not to detain:</l>
+                  <l>For why to benefite the beſt,</l>
+                  <l>Is held the greateſt Gain.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>Suſpecting ought to find it out,</l>
+                  <l>With ſpeed have due regard:</l>
+                  <l>For things, at firſt neglected, prove</l>
+                  <l>Miſchievous afterward</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>To <hi>Venus</hi> damned pleaſures prone,</l>
+                  <l>If thou thy ſelf diſtruſt,</l>
+                  <l>Forbear to feed on coſtly Meats,</l>
+                  <l>As Motives unto Luſt.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Whereas thou ſhuneſt ſavage Beaſts,</l>
+                  <l>Whoſe Forces fearful are:</l>
+                  <l>I only wiſh thee to avoid</l>
+                  <l>Lewd Men, more cruel far.</l>
+               </lg>
+               <lg n="12">
+                  <pb n="18" facs="tcp:103906:14"/>
+                  <head>12.</head>
+                  <l>Not ſtrength of able Limbs alone,</l>
+                  <l>That others moſt ſurmount,</l>
+                  <l>But wiſdom, manageing the Might,</l>
+                  <l>True Valour Men Account.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Seek Comfort of thy conſtant Friend,</l>
+                  <l>Afflicted if thou be:</l>
+                  <l>For no Phyſician in his Cure,</l>
+                  <l>May more prevail then he.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>For thine Offence, why ſhould thy Beaſt</l>
+                  <l>In Sacrifice be ſlain?</l>
+                  <l>To hope for Health by others Death,</l>
+                  <l>Fond Folly doth maintain</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>A good Companion, or a Friend</l>
+                  <l>In ſeeking to ſelect:</l>
+                  <l>Regard not what his Fortunes are:</l>
+                  <l>His honeſt Name reſpect.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Make uſe of Wealth, and ſcorn the Name</l>
+                  <l>Of Niggard evermore.</l>
+                  <l>What good do Riches to tho Man</l>
+                  <l>That ſtarves in midſt of ſtore?</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>If thou deſire in Life and Death</l>
+                  <l>A good report to find:</l>
+                  <l>All Earthly pleaſures, vain and vile,</l>
+                  <l>Abandon from thy mind.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Deride not Ages dull conceit,</l>
+                  <l>In things to thee more plain,</l>
+                  <l>For whoſo lives till he be Old,</l>
+                  <l>Shall waxe a Child again.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Learn ſomething, and if Suddenly</l>
+                  <l>Thy Subſtance ſhould decay:</l>
+                  <l>Thy Skill remaining may relieve</l>
+                  <l>Thy Wants another way.</l>
+               </lg>
+               <lg n="20">
+                  <pb n="19" facs="tcp:103906:14"/>
+                  <head>20.</head>
+                  <l>Obſerve with Silence whereunto</l>
+                  <l>Each ones Diſcourſe doth tend;</l>
+                  <l>For Speech Mens Manners doth cnoceal</l>
+                  <l>And utters in the end.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>Though learned, yet thy Studies grave</l>
+                  <l>By no means intermit:</l>
+                  <l>As labour keeps the hand in uſe,</l>
+                  <l>So practice helps the wit.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>Regard not how the Fates conſpire</l>
+                  <l>In time to work thee Spight;</l>
+                  <l>He dreads not Death, in doubtful Life</l>
+                  <l>That learns not to delight.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>Learn; But of ſuch as learned are,</l>
+                  <l>Thy ſelf inſtruct the reſt,</l>
+                  <l>For knowledge, where it may do good,</l>
+                  <l>Ought not to be ſuppreſt.</l>
+               </lg>
+               <lg n="24">
+                  <head>24</head>
+                  <l>Drink what thou canſt: For forced Draughts</l>
+                  <l>Mens Health doth much impair;</l>
+                  <l>Such beaſtly Pleaſures oftentimes</l>
+                  <l>Procures the Bodies Care.</l>
+               </lg>
+               <lg n="25">
+                  <head>25</head>
+                  <l>What ever thing thou ſhalt approve,</l>
+                  <l>Or Praiſe in publick place;</l>
+                  <l>Condemn not lightly afterward,</l>
+                  <l>Leſt thou ſuſtain Diſgrace.</l>
+               </lg>
+               <lg n="26">
+                  <head>26,</head>
+                  <l>In time of calme and quiet reſt,</l>
+                  <l>Remember ſtormes aloft;</l>
+                  <l>Again in trouble hope the beſt,</l>
+                  <l>Sith Fortune alters oft.</l>
+               </lg>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>To learning ſtill thy mind apply,</l>
+                  <l>By ſtudy wiſdom growes;</l>
+                  <l>And prudence rare, to induſtry,</l>
+                  <l>In time her Treaſure ſhows.</l>
+               </lg>
+               <lg n="28">
+                  <pb n="20" facs="tcp:103906:15"/>
+                  <head>28</head>
+                  <l>Commend thy Friend more ſparingly</l>
+                  <l>And reſt content with this;</l>
+                  <l>That time at length ſhall manifeſt</l>
+                  <l>His Merit, what it is.</l>
+               </lg>
+               <lg n="29">
+                  <head>29</head>
+                  <l>Bluſh not, of Ignorance, to ſhew</l>
+                  <l>Thy willingneſs to learn;</l>
+                  <l>As wit's a glory, ſo ſcandalous for thoſe,</l>
+                  <l>VVho nothing will diſcern.</l>
+               </lg>
+               <lg n="30">
+                  <head>30</head>
+                  <l>In Wine and Women (wiſe men ſay)</l>
+                  <l>Both good and evil reſt:</l>
+                  <l>What therefore is in either bad</l>
+                  <l>Refuſe, and take the beſt.</l>
+               </lg>
+               <lg n="31">
+                  <head>31</head>
+                  <l>Of ſad and ſullen countenanc'd</l>
+                  <l>And ſilent Men, beware;</l>
+                  <l>For when the ſtream is calmeſt, there</l>
+                  <l>The waters deepeſt are.</l>
+               </lg>
+               <lg n="32">
+                  <head>32</head>
+                  <l>If diſcontented with thy ſtate,</l>
+                  <l>Thou weigh the ſad Decline</l>
+                  <l>Of other men (ſuperiors late)</l>
+                  <l>Thou need to repine.</l>
+               </lg>
+               <lg n="33">
+                  <head>33</head>
+                  <l>Attempt according to thy ſtrength;</l>
+                  <l>Cloſe by the ſhoar to keep</l>
+                  <l>Is ſafer, then to hoiſe up Sails</l>
+                  <l>And launch into the deep.</l>
+               </lg>
+               <lg n="34">
+                  <head>34</head>
+                  <l>Againſt a juſt and upright man,</l>
+                  <l>Contend not wickedly:</l>
+                  <l>For God in juſtice doth revenge</l>
+                  <l>All wrong and injury.</l>
+               </lg>
+               <lg n="35">
+                  <head>35</head>
+                  <l>Bereft of Riches, ſorrow not,</l>
+                  <l>Nor vex thy ſelf in vain:</l>
+                  <l>Be rather merry, if thou may'ſt</l>
+                  <l>Recover them again.</l>
+               </lg>
+               <lg n="36">
+                  <pb n="21" facs="tcp:103906:15"/>
+                  <head>36</head>
+                  <l>To ſuffer loſs of all, a wrack</l>
+                  <l>Intolerable were:</l>
+                  <l>Yet things there are, which patiently</l>
+                  <l>Behoves a freind to bear.</l>
+               </lg>
+               <lg n="37">
+                  <head>37.</head>
+                  <l>In no wayes promiſe, to thy ſelf,</l>
+                  <l>Long Life and many Years:</l>
+                  <l>For like a ſhadow at the back,</l>
+                  <l>Death every where appears.</l>
+               </lg>
+               <lg n="38">
+                  <head>38</head>
+                  <l>With incenſe make the Altar ſmoak,</l>
+                  <l>Spare Oxen to the Plow;</l>
+                  <l>Burnt Sacrifice with Blood embru'd,</l>
+                  <l>The LORD doth not allow.</l>
+               </lg>
+               <lg n="39">
+                  <head>39.</head>
+                  <l>Give Fortune place, and bear thy ſelf</l>
+                  <l>To mighty Men ſubmiſs:</l>
+                  <l>For he that knows to yeeld in time,</l>
+                  <l>May profite him and his.</l>
+               </lg>
+               <lg n="40">
+                  <head>40</head>
+                  <l>In oft offending, never free</l>
+                  <l>Thy fault, from puniſhment;</l>
+                  <l>In cureing wounds one ſmart (we ſee)</l>
+                  <l>Another doth prevent.</l>
+               </lg>
+               <lg n="41">
+                  <head>41</head>
+                  <l>Thy ancient friend diſhonour not,</l>
+                  <l>Though he unconſtant prove,</l>
+                  <l>And change his manners; yet reſpect</l>
+                  <l>The bonds of former love.</l>
+               </lg>
+               <lg n="42">
+                  <head>42</head>
+                  <l>To gain the greater Love of all,</l>
+                  <l>In thankfullneſs abound:</l>
+                  <l>Leſt thou incurr the Name of one,</l>
+                  <l>In whom deſerts are drown'd.</l>
+               </lg>
+               <lg n="43">
+                  <head>43</head>
+                  <l>Flee vain Suſpicions, leſt thou lead</l>
+                  <l>Thy Life in Miſery:</l>
+                  <l>For fearful and ſurmiſing Folks</l>
+                  <l>Are apteſt ſtill to die.</l>
+               </lg>
+               <lg n="44">
+                  <pb n="22" facs="tcp:103906:16"/>
+                  <head>44.</head>
+                  <l>VVhen for thy proper uſe thou buyer</l>
+                  <l>bond-Servants now and then,</l>
+                  <l>And call'ſt them Slaves; Remember yet</l>
+                  <l>That they are alſo Men.</l>
+               </lg>
+               <lg n="45">
+                  <head>45.</head>
+                  <l>Occaſion fit to apprehend,</l>
+                  <l>VVith ſpeed have due reſpect;</l>
+                  <l>Leſt afterwards thou ſeek in vain,</l>
+                  <l>VVhat late thou did'ſt neglect.</l>
+               </lg>
+               <lg n="46">
+                  <head>46</head>
+                  <l>Rejoice not in the ſudden Death,</l>
+                  <l>Of Sinners caught away:</l>
+                  <l>For Saints, whoſe Lives unſpotted are,</l>
+                  <l>Muſt Death's Arreſt obey.</l>
+               </lg>
+               <lg n="47">
+                  <head>47.</head>
+                  <l>If thou be poor, and haſt withall</l>
+                  <l>A VVife of ill report:</l>
+                  <l>Barre ſuch, as by the Name of Friends,</l>
+                  <l>VVould to thy Houſe reſort.</l>
+               </lg>
+               <lg n="48">
+                  <head>48.</head>
+                  <l>Although by Studies thou be brought,</l>
+                  <l>Deep matters to diſcern;</l>
+                  <l>Yet ſhew thy ſelf in things unknown</l>
+                  <l>Deſireous ſtill to learn.</l>
+               </lg>
+               <lg n="49">
+                  <head>49.</head>
+                  <l>And wonder, not that plaineſt words</l>
+                  <l>My Poems entertain;</l>
+                  <l>Sith brevity my Muſe affects,</l>
+                  <l>To help the ſhallow Brain.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:103906:16" rendition="simple:additions"/>
+               <pb facs="tcp:103906:17" rendition="simple:additions"/>
+               <pb facs="tcp:103906:17" rendition="simple:additions"/>
+               <pb facs="tcp:103906:18" rendition="simple:additions"/>
+               <pb facs="tcp:103906:18" rendition="simple:additions"/>
+               <pb facs="tcp:103906:19" rendition="simple:additions"/>
+               <pb facs="tcp:103906:19" rendition="simple:additions"/>
+               <pb facs="tcp:103906:20" rendition="simple:additions"/>
+               <pb facs="tcp:103906:20" rendition="simple:additions"/>
+               <pb facs="tcp:103906:21" rendition="simple:additions"/>
+               <pb facs="tcp:103906:21" rendition="simple:additions"/>
+               <pb facs="tcp:103906:22" rendition="simple:additions"/>
+               <pb facs="tcp:103906:22" rendition="simple:additions"/>
+               <pb facs="tcp:103906:23" rendition="simple:additions"/>
+               <pb facs="tcp:103906:23" rendition="simple:additions"/>
+               <pb facs="tcp:103906:24" rendition="simple:additions"/>
+               <pb facs="tcp:103906:24" rendition="simple:additions"/>
+               <pb facs="tcp:103906:25" rendition="simple:additions"/>
+               <pb facs="tcp:103906:25"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
